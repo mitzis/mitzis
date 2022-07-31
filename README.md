@@ -23,7 +23,7 @@
 ### :woman_technologist: About Me :
 
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently pursuing my bachelor's in Computer Science with specialization in Blockchain Technology/\.
+- :telescope: I’m currently pursuing my bachelor's in Computer Science with specialization in Blockchain Technology\.
 
 - :seedling: Exploring Web3
 
